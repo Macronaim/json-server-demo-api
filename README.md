@@ -31,7 +31,7 @@ npm install
 
 ## Run JSON server
 
-- `npm start`: Start json server multiple files
+- `server start`: Start json server multiple files
 
 
 ## Screen shot
